@@ -28,3 +28,5 @@ Interfejs strony jest bardzo prosty, brakuje mu ciekawego layoutu, nie przyciąg
 # Błąd w raporcie
 * klikam dodaj raport i przenosi mnie do meczów, nie da się dodać żadnego rapotu 
 
+### *Subtask 5*
+[Jira](https://szarek.atlassian.net/jira/core/projects/CPP/board)
