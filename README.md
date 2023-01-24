@@ -30,3 +30,14 @@ Interfejs strony jest bardzo prosty, brakuje mu ciekawego layoutu, nie przyciąg
 
 ### *Subtask 5*
 [Jira](https://szarek.atlassian.net/jira/core/projects/CPP/board)
+
+
+
+# **Task 2**
+### *Subtask 1*
+[Test casy na podstawie User Story](https://docs.google.com/spreadsheets/d/1rGu57qn0IdWP1_3YaCT3b9rxNTlUJVlFymQebloicxw/edit#gid=0)
+### *Subtask 2*
+[Test casy na podstawie własnych doświadczeń](https://docs.google.com/spreadsheets/d/1sfz2hqsLsrdWFUQKjtwgV5G_kOTplzmiu4QXpamDY8g/edit#gid=0)
+### *Subtask 3*
+Dlaczego piszemy test casy?
+###### *Po to, żeby można było łatwiej przejść przez te same przypadki po wprowadzonych zmianach przy testach regresji. Ale dla mnie też dlatego, że można bardzo dokładnie "przebadać" stornę czy aplikację, którą się testuje i szybciej zlokalizować rzeczy, które nie zadziałały zgodnie z wytyczną.* 
