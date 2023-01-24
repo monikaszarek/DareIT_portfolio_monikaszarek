@@ -41,3 +41,7 @@ Interfejs strony jest bardzo prosty, brakuje mu ciekawego layoutu, nie przyciąg
 ### *Subtask 3*
 Dlaczego piszemy test casy?
 ###### *Po to, żeby można było łatwiej przejść przez te same przypadki po wprowadzonych zmianach przy testach regresji. Ale dla mnie też dlatego, że można bardzo dokładnie "przebadać" stornę czy aplikację, którą się testuje i szybciej zlokalizować rzeczy, które nie zadziałały zgodnie z wytyczną.* 
+
+###### PS. Macie chyba buga w formularzu do wysyłki zadania :wink:
+###### Ostatni punkt Subtask 4 jest z gwiazdką, nie da się nic nie zaznaczyć ani wybrać opcji "nie wykonałam" mimo, że jest tylko dla chętnych. Pozostali muszą wybierać niezgodnie z prawdą.
+![](https://imgupload.pl/images/2023/01/24/dareitbug.png)
