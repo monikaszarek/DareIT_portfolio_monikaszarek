@@ -45,3 +45,15 @@ Dlaczego piszemy test casy?
 ###### PS. Macie chyba buga w formularzu do wysyłki zadania :wink:
 ###### Ostatni punkt Subtask 4 jest z gwiazdką, nie da się nic nie zaznaczyć ani wybrać opcji "nie wykonałam" mimo, że jest tylko dla chętnych. Pozostali muszą wybierać niezgodnie z prawdą.
 ![](https://imgupload.pl/images/2023/01/24/dareitbug.png)
+
+
+
+# **Task 3**
+### *Subtask 1*
+Formatki to jednocześnie linki z subtaska 2
+### *Subtask 2*
+[Testy 1](https://docs.google.com/spreadsheets/d/1vKMLvCxi0sO3O3yxstgoZ5OXnYVuoZ29bLUyg8ofTi0/edit#gid=0)
+
+[Testy 2](https://docs.google.com/spreadsheets/d/1eUQ28OViTIZt6eofay6IeRoSz7wi9ZEkwDnPD2JWDf8/edit#gid=0)
+### *Subtask 3*
+[Raport](https://docs.google.com/spreadsheets/d/1PxsP_LTxdmFd-sDnmVwOgs5O36vECdYhYoRAw5kbyeM/edit#gid=0)
