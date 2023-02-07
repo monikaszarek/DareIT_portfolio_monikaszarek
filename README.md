@@ -84,7 +84,7 @@ Formatki to jednocześnie linki z subtaska 2
 ### *Subtask 3*
 <ol>
 <li><i>Do czego służy aplikacja, jaki jest jej cel?</i></li>
-Aplikacja służy do sprzedawania i kupowania rzeczy i nieruchomości, a także to szukania pracy. Ma na celu pozowolić na szybkie komunikowanie się osób na linii kupujący-sprzedjący / oferujący/szukający.
+Aplikacja służy do sprzedawania i kupowania rzeczy i nieruchomości, a także to szukania pracy. Ma na celu pozowolić na szybkie komunikowanie się osób na linii kupujący-sprzedjący / oferujący-szukający.
 
 <li><i>Kto ma być użytkownikiem końcowym aplikacji?</i></li>
 Kupujący, sprzedający, wymieniający rzeczy, szukający i oderujący pracę
