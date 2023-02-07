@@ -61,7 +61,9 @@ Formatki to jednocześnie linki z subtaska 2
 # **Task 4**
 ### *Subtask 2*
 ###### Dziewczyny, dałyście do przetestowania zbyt dobrze zrobioną apkę :smile:
-Dlatego zamiast robić formatkę, do błędów, których nie znalazłam, opiszę dwie rzeczy. 
+###### Dlatego zamiast robić formatkę, do błędów, których nie znalazłam, opiszę dwie rzeczy. 
+
+:point_right: <i>Zacznijmy może od specyfikacji. Testowana była aplikacja OLX wersja 5.77.0, aktualizowana przez producenta 31.01.2023r. Testowana na telefonie Xiaomi Redmi Note 11 (2201117TY) 6.02.2023 koło godziny 20 oraz na przeglądarce Chrome wersja 109.0.5414.120</i>
 
 :one: Na początek różnica między aplikacją otwieraną w przeglądarce, a natywną. W tej pierwszej w zakładce "obserwujesz" w polu "obserwowane wyszukiwania" pojawia się ile można mieć takich obserwowanych wyszukiwań (0/50), a w natywnej tego nie ma. W poniższych linkach screeny:
 
@@ -77,4 +79,22 @@ Dlatego zamiast robić formatkę, do błędów, których nie znalazłam, opiszę
 
 [3](http://imgurl.pl/img2/7_63e272b794eb2.jpg)
 
-![Alt Text](https://i.gifer.com/Q0Tq.gif)
+![Alt Text](https://i.pinimg.com/originals/0f/d5/f6/0fd5f629cdfa85f1d99b3797941acc00.jpg)
+
+### *Subtask 3*
+<ol>
+<li><i>Do czego służy aplikacja, jaki jest jej cel?</i></li>
+Aplikacja służy do sprzedawania i kupowania rzeczy i nieruchomości, a także to szukania pracy. Ma na celu pozowolić na szybkie komunikowanie się osób na linii kupujący-sprzedjący / oferujący/szukający.
+
+<li><i>Kto ma być użytkownikiem końcowym aplikacji?</i></li>
+Kupujący, sprzedający, wymieniający rzeczy, szukający i oderujący pracę
+
+<li><i>Czy według Ciebie aplikacja jest user friendly?</i></li>
+Jak najbardziej. Jest prosta, najważniejsze funkcje są w zasięgu kciuka, użytkownik intiucyjnie się po niej porusza, łatwo znaleźć zakłądkie, których się potrzebuje. Nic nie jest ukryte, trudno dostępne, użytkowanie aplikacji nie irytuje. W podobnie przyjemny sposób korzysta się z webbowej wersji.
+
+<li><i>Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?</i></li>
+Nie lubię poprawiać rzeczy dobrych - a ta taka jest - bo wychodzą z tego często potworki (taki jest mój user experience), które tylko wkurzają. Lepsze jest wrogiem dobrego :wink:
+
+<li><i>Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?</i></li>
+Są do siebie mocno podobne. Ma się wrażenie, że różnią się tylko rozdzielczością. Ale z zauważalnych prostych różnić, to w przeglądarce od razu widać wszystkie dostępne kategorie, a w apce trzeba to sobie przewinąć i rozklikać. Najważniejsze funkcje są w apce na dole, a w przeglądarce u góry strony. 
+</ol> 
