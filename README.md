@@ -77,4 +77,4 @@ Dlatego zamiast robić formatkę, do błędów, których nie znalazłam, opiszę
 
 [3](http://imgurl.pl/img2/7_63e272b794eb2.jpg)
 
-![](https://i.gifer.com/1R8m.gif)
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.gifer.com/1R8m.gif))
