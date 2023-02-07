@@ -61,7 +61,7 @@ Formatki to jednocześnie linki z subtaska 2
 # **Task 4**
 ### *Subtask 2*
 ###### Dziewczyny, dałyście do przetestowania zbyt dobrze zrobioną apkę :smile:
-###### Dlatego zamiast robić formatkę, do błędów, których nie znalazłam, opiszę dwie rzeczy. 
+###### Dlatego zamiast robić formatkę do błędów, których nie znalazłam, opiszę dwie rzeczy. 
 
 :point_right: <i>Zacznijmy może od specyfikacji. Testowana była aplikacja OLX wersja 5.77.0, aktualizowana przez producenta 31.01.2023r. Testowana na telefonie Xiaomi Redmi Note 11 (2201117TY) 6.02.2023 koło godziny 20 oraz na przeglądarce Chrome wersja 109.0.5414.120</i>
 
