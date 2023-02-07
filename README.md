@@ -57,3 +57,24 @@ Formatki to jednocześnie linki z subtaska 2
 [Testy 2](https://docs.google.com/spreadsheets/d/1eUQ28OViTIZt6eofay6IeRoSz7wi9ZEkwDnPD2JWDf8/edit#gid=0)
 ### *Subtask 3*
 [Raport](https://docs.google.com/spreadsheets/d/1PxsP_LTxdmFd-sDnmVwOgs5O36vECdYhYoRAw5kbyeM/edit#gid=0)
+
+# **Task 4**
+### *Subtask 2*
+###### Dziewczyny, dałyście do przetestowania zbyt dobrze zrobioną apkę :smile:
+Dlatego zamiast robić formatkę, do błędów, których nie znalazłam, opiszę dwie rzeczy. 
+
+:one: Na początek różnica między aplikacją otwieraną w przeglądarce, a natywną. W tej pierwszej w zakładce "obserwujesz" w polu "obserwowane wyszukiwania" pojawia się ile można mieć takich obserwowanych wyszukiwań (0/50), a w natywnej tego nie ma. W poniższych linkach screeny:
+
+[przeglądarka](http://imgurl.pl/img2/3_63e272b791da9.jpg) 
+
+[apka](http://imgurl.pl/img2/5_63e272b794b1a.jpg)
+
+:two: Pomijając pozycjonowanie i promowanie ogłoszeń, niektóre pojawiają się po kilka razy:
+
+[1](http://imgurl.pl/img2/1_63e272b7863b0.jpg)
+
+[2](http://imgurl.pl/img2/4_63e272b7948a6.jpg)
+
+[3](http://imgurl.pl/img2/7_63e272b794eb2.jpg)
+
+![](https://i.gifer.com/1R8m.gif)
