@@ -98,3 +98,30 @@ Nie lubię poprawiać rzeczy dobrych - a ta taka jest - bo wychodzą z tego czę
 <li><i>Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?</i></li>
 Są do siebie mocno podobne. Ma się wrażenie, że różnią się tylko rozdzielczością. Ale z zauważalnych prostych różnić, to w przeglądarce od razu widać wszystkie dostępne kategorie, a w apce trzeba to sobie przewinąć i rozklikać. Najważniejsze funkcje są w apce na dole, a w przeglądarce u góry strony. 
 </ol> 
+
+# **Task 5** Ho ho, to już?
+### *Subtask 1*
+Pytacie czego się nauczyłam z kursiątka?
+Otóż:
+* ###### SELECT * FROM wyświetla zawartośc tabeli 
+* ###### plik o rozszerzeniu .sql to plik tekstowy i to było :wow: 
+* ###### GO oddziela dwie lub więcej instrukcji
+* ###### aliasem AS można sobie zmienić nazwę tabeli 
+* ###### sortujemy przez ORDER BY
+* ###### DESC to sortowanie malejąco, ASC rosnąco
+* ###### WHERE wyszczególnia to, co chcemy wyciągnąć
+* ###### % zastępuje dowolną ilość znaków tam gdzie go postawimy czyli albo przed frazą, albo po niej i jeśli ma to być tekst, to musi się zawierać w apostrofach ' '
+* ###### _ zastępuje jeden znak 
+* ###### uwaga! NULL to nie zero tylko pusty wiersz, nic tam nie ma, żadnej wartości. Żadnej!
+* ###### GETDATE da nam aktualną datę, można jej użyć do określenia wartości od lub do
+* ###### SELECT UPPRE zmieni litery na wielkie, a LOWER na małe
+* ###### SELECT DATEDIFF wylicza róznicę w czasie od-do
+* ###### SELECT COUNT zlicza wiersze
+* ###### SELECT SUM sumuje wartości
+* ###### SELECT MIN zwraca wartość minimalną 
+* ###### kolejność zapytań: SELECT (3), FROM (1), WHERE (2)
+
+### *Subtask 3*
+Mam coś lepszego niż screeny w Readme :smiling_imp: 
+
+:point_right: [Zapraszam](https://docs.google.com/presentation/d/1yiQq8pJc0tuscDj6nEKQv0QEs1cUVScDXqctPMkD0O8/edit#slide=id.p) :point_left:
